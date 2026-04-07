@@ -1,3 +1,36 @@
+<<<<<<< HEAD
+class Shape {
+    String color;
+
+    Shape(String color) {
+        this.color = color;
+    }
+
+    void draw() {
+        System.out.println("Drawing a shape");
+    }
+}
+
+class Circle extends Shape {
+    Circle(String color) {
+        super(color);
+    }
+
+    @Override
+    void draw() {
+        System.out.println("Drawing a " + color + " circle");
+    }
+}
+
+class Triangle extends Shape {
+    Triangle(String color) {
+        super(color);
+    }
+
+    @Override
+    void draw() {
+        System.out.println("Drawing a " + color + " triangle");
+=======
 class Person {
 
     String name;
@@ -51,10 +84,20 @@ class Teacher extends Person {
 
     void teach() {
         System.out.println(name + " is teaching " + subject);
+>>>>>>> abd999a4e7563bdfda5a5b60c0fe0d6638c4932f
     }
 }
 
 public class Main {
+<<<<<<< HEAD
+    public static void main(String[] args) {
+        Circle c = new Circle("red");
+        Triangle t = new Triangle("blue");
+
+        c.draw();
+        t.draw();
+    }
+=======
 
     public static void main(String[] args) {
 
@@ -74,4 +117,5 @@ public class Main {
 
     }
 
+>>>>>>> abd999a4e7563bdfda5a5b60c0fe0d6638c4932f
 }
