@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exceptional_Handling/Exceptional_Handling.iml" filepath="$PROJECT_DIR$/Exceptional_Handling/Exceptional_Handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/SchoolManagmentSystem.iml" filepath="$PROJECT_DIR$/SchoolManagmentSystem.iml" />
     </modules>
   </component>
