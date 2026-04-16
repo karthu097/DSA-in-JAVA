@@ -1,2 +1,2 @@
 basically i am 
-wertyuiop';lkjhgfdssdfghjk,.,mnbvcxzxcvbnm,.,mnbvcxxcvbnm,.
+wertyuiop';lkjhgfdssdfghjk,.,mnbvcxzxcvbnm,.,mnbvcx
