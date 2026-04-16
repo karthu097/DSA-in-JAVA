@@ -1,1 +1,1 @@
-basically i am practicing java patten 
+basically i am practicing java
