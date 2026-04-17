@@ -1,2 +1,1 @@
 basically i am 
-we
