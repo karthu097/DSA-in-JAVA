@@ -49,4 +49,5 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 	<li><code>-100 &lt;= nums[i] &lt;= 100</code></li>
 	<li><code>nums</code> is sorted in <strong>non-decreasing</strong> order.</li>
 </ul>
-1[Demo]https://github.com/user-attachments/assets/a5e48707-442d-46b8-ad73-ab6a607c3901
+<video src="https://github.com/user-attachments/assets/a5e48707-442d-46b8-ad73-ab6a607c3901" controls="controls" style="max-width: 100%;">
+</video>
