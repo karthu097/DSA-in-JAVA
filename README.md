@@ -6,6 +6,7 @@ basically i
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/karthu097/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/karthu097/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karthu097/DSA-in-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/karthu097/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karthu097/DSA-in-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -13,6 +14,7 @@ basically i
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/karthu097/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/karthu097/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/karthu097/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karthu097/DSA-in-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/karthu097/DSA-in-JAVA/tree/master/0283-move-zeroes) |
