@@ -1,4 +1,3 @@
-basically i
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
