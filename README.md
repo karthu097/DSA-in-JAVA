@@ -9,6 +9,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karthu097/DSA-in-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/karthu097/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/karthu097/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/karthu097/DSA-in-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karthu097/DSA-in-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
@@ -33,6 +34,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/karthu097/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0844-backspace-string-compare](https://github.com/karthu097/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/karthu097/DSA-in-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +55,12 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/karthu097/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/karthu097/DSA-in-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/karthu097/DSA-in-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
