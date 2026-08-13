@@ -18,6 +18,7 @@ basically i
 | [0125-valid-palindrome](https://github.com/karthu097/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karthu097/DSA-in-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/karthu097/DSA-in-JAVA/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/karthu097/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -30,6 +31,7 @@ basically i
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/karthu097/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
+| [0844-backspace-string-compare](https://github.com/karthu097/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +40,12 @@ basically i
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karthu097/DSA-in-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/karthu097/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/karthu097/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
