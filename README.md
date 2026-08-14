@@ -37,14 +37,17 @@
 | [0125-valid-palindrome](https://github.com/karthu097/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0844-backspace-string-compare](https://github.com/karthu097/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/karthu097/DSA-in-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/karthu097/DSA-in-JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Hash Table
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karthu097/DSA-in-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/karthu097/DSA-in-JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karthu097/DSA-in-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/karthu097/DSA-in-JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
