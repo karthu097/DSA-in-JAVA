@@ -13,6 +13,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/karthu097/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/karthu097/DSA-in-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karthu097/DSA-in-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/karthu097/DSA-in-JAVA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/karthu097/DSA-in-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/karthu097/DSA-in-JAVA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
