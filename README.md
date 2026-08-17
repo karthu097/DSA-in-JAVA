@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karthu097/DSA-in-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/karthu097/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/karthu097/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [1563-stone-game-v](https://github.com/karthu097/DSA-in-JAVA/tree/master/1563-stone-game-v) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/karthu097/DSA-in-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karthu097/DSA-in-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/karthu097/DSA-in-JAVA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -93,4 +94,16 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/karthu097/DSA-in-JAVA/tree/master/0101-symmetric-tree) |
+## Math
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/karthu097/DSA-in-JAVA/tree/master/1563-stone-game-v) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/karthu097/DSA-in-JAVA/tree/master/1563-stone-game-v) |
+## Game Theory
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/karthu097/DSA-in-JAVA/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->
