@@ -25,7 +25,7 @@ class Solution {
                         dp[i][j] = Math.max(dp[i][j], leftSum + dp[i][k]);
                     } else if (leftSum > rightSum) {
                         dp[i][j] = Math.max(dp[i][j], rightSum + dp[k + 1][j]);
-                    } else { // leftSum == rightSum
+                    } else { 
                         dp[i][j] = Math.max(dp[i][j], leftSum + Math.max(dp[i][k], dp[k + 1][j]));
                     }
                 }
