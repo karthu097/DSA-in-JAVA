@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karthu097/DSA-in-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/karthu097/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/karthu097/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [1386-cinema-seat-allocation](https://github.com/karthu097/DSA-in-JAVA/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/karthu097/DSA-in-JAVA/tree/master/1563-stone-game-v) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/karthu097/DSA-in-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karthu097/DSA-in-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/karthu097/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
+| [1386-cinema-seat-allocation](https://github.com/karthu097/DSA-in-JAVA/tree/master/1386-cinema-seat-allocation) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/karthu097/DSA-in-JAVA/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karthu097/DSA-in-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/karthu097/DSA-in-JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/karthu097/DSA-in-JAVA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -79,6 +82,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/karthu097/DSA-in-JAVA/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/karthu097/DSA-in-JAVA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Tree
 |  |
