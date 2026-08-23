@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karthu097/DSA-in-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/karthu097/DSA-in-JAVA/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/karthu097/DSA-in-JAVA/tree/master/0367-valid-perfect-square) |
 | [1563-stone-game-v](https://github.com/karthu097/DSA-in-JAVA/tree/master/1563-stone-game-v) |
 ## Dynamic Programming
 |  |
