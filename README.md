@@ -13,6 +13,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/karthu097/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1386-cinema-seat-allocation](https://github.com/karthu097/DSA-in-JAVA/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/karthu097/DSA-in-JAVA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/karthu097/DSA-in-JAVA/tree/master/1872-stone-game-viii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/karthu097/DSA-in-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karthu097/DSA-in-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/karthu097/DSA-in-JAVA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -106,12 +107,27 @@
 | ------- |
 | [0367-valid-perfect-square](https://github.com/karthu097/DSA-in-JAVA/tree/master/0367-valid-perfect-square) |
 | [1563-stone-game-v](https://github.com/karthu097/DSA-in-JAVA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/karthu097/DSA-in-JAVA/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/karthu097/DSA-in-JAVA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/karthu097/DSA-in-JAVA/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/karthu097/DSA-in-JAVA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/karthu097/DSA-in-JAVA/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/karthu097/DSA-in-JAVA/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/karthu097/DSA-in-JAVA/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/karthu097/DSA-in-JAVA/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
