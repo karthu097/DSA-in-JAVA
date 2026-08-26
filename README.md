@@ -16,6 +16,7 @@
 | [1872-stone-game-viii](https://github.com/karthu097/DSA-in-JAVA/tree/master/1872-stone-game-viii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/karthu097/DSA-in-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karthu097/DSA-in-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/karthu097/DSA-in-JAVA/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/karthu097/DSA-in-JAVA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/karthu097/DSA-in-JAVA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/karthu097/DSA-in-JAVA/tree/master/3718-smallest-missing-multiple-of-k) |
