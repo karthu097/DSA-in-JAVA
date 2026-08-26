@@ -18,7 +18,7 @@ The following substring has a length of 4 and contains at most two occurrences o
 <p><strong>Output:</strong> <span class="example-io">2</span></p>
 
 <p><strong>Explanation:</strong></p>
-The following substring has a length of 2 and contains at most two occurrences of each character: <code>&quot;<u>aa</u>aa&quot;</code>.</div>
+The following substring has a length of 2 and contains at most two occurrences of each   character: <code>&quot;<u>aa</u>aa&quot;</code>.</div>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
