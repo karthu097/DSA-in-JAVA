@@ -24,7 +24,7 @@ class Solution {
             }
         }
 
-        // Sort intervals by their end points (Greedy interval scheduling
+        //Sort intervals by their end points (Greedy interval scheduling
         Collections.sort(intervals, (a, b) -> Integer.compare(a[1], b[1]));
 
         int count = 0;
