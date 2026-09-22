@@ -20,7 +20,7 @@ class Solution {
             nums[i] %= k;
         }
 
-        build(nums, 0, 0, n - 1);
+        build(nums, 0, 0, n - 1); //n 
 
         int q = queries.length;
         int[] ans = new int[q];
@@ -94,5 +94,5 @@ class Solution {
             return merge(query(2 * treeIndex + 1, lo, mid, i, mid),
                          query(2 * treeIndex + 2, mid + 1, hi, mid + 1, j));
         }
-    } //
+    }
 }
